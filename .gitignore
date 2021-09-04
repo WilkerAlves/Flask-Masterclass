@@ -151,7 +151,19 @@ cython_debug/
 .history/*
 .venv/*
 .vscode/*
-.ide/*
+.idea/*
+
 
 introduction/.venv/*
 database-manager/.venv/*
+
+introduction/.history/*
+database-manager/.vscode/*
+
+introduction/.history/*
+database-manager/.history/*
+
+app.db
+
+
+
